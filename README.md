@@ -45,7 +45,7 @@ Este projeto implementa um **Agente de SDR Inteligente** usando **LLMs, RAG e in
 
 ```
 📦 ia-sdr-agent
-├── workflow.json             # Arquivo do fluxo no n8n
+├── _Teste__Ai_Sdr (3).json   # Arquivo do fluxo no n8n
 ├── imagens/                  # Prints do fluxo e exemplos
 ├── README.md                 # Este arquivo
 ```
